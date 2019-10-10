@@ -3,3 +3,4 @@ output/
 .psci*
 .pulp-cache
 html/main.js
+.spago
